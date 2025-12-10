@@ -1,5 +1,5 @@
 
-What we fight against is never death, but time.
+**What we fight against is never death, but time.**
 
 ## About Me
 I'm an **Autonomous Driving Simulation System Algorithm Engineer** at [Zelos](https://zelostech.ai/), where I focus on **simulation engine performance consistency** and **traffic flow generation**.
